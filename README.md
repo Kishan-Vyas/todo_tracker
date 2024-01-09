@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Contact
 
-If you have any questions or suggestions regarding the app or this repository, please feel free to contact us:
+If you have any questions or suggestions regarding the app or this repository, please feel free to contact me:
 
 Kishan Vyas
 Email: kishanvyas308@gmail.com
